@@ -1,9 +1,9 @@
 # Article Summarizer
 Article Summarizer is a web application built with React JS and GPT API that allows users to summarize long articles into short summaries. This application uses natural language processing to analyze the content of the article and generate a summary that captures the most important points. <br>
-# Features
-•	Summarize long articles into short summaries
-•	Select the length of the summary (short, medium, or long)
-•	Copy the summary to the clipboard
+# Features:
+•	Summarize long articles into short summaries <br>
+•	Select the length of the summary (short, medium, or long)<br>
+•	Copy the summary to the clipboard <br>
 •	Responsive design for desktop and mobile devices
 
 # Usage <br>
