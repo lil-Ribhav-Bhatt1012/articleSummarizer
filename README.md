@@ -6,8 +6,8 @@ Article Summarizer is a web application built with React JS and GPT API that all
 •	Copy the summary to the clipboard
 •	Responsive design for desktop and mobile devices
 
-#Usage
-#To use the Article Summarizer application, follow these steps:
+#Usage <br>
+To use the Article Summarizer application, follow these steps:
 1.	Enter the URL or text of the article you want to summarize in the input field.
 2.	Select the length of the summary you want (short, medium, or long).
 3.	Click the "Summarize" button to generate the summary.
